@@ -1,14 +1,5 @@
 {
 "materiali": [
-{"id":"1","cosa":"Abiti usati","dove":"Tessili"},
-{"id":"2","cosa":"Accendino","dove":"Indifferenziato"},
-{"id":"3","cosa":"Accumulatori per auto","dove":"Pericolosi"},
-{"id":"4","cosa":"Acetone per unghie","dove":"Pericolosi"},
-{"id":"5","cosa":"Acidi","dove":"Pericolosi"},
-{"id":"6","cosa":"Acquaragia","dove":"Pericolosi"},
-{"id":"7","cosa":"Acquario","dove":"Ingombranti"},
-{"id":"8","cosa":"Addobbi natalizi","dove":"Ingombranti"},
-{"id":"9","cosa":"Adesivi","dove":"Indifferenziato"},
-{"id":"10","cosa":"Agenda","dove":"Carta"}
+{"id":"1","cosa":"Abiti usati","dove":"Tessili"}
 ]
 }
